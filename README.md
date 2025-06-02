@@ -25,7 +25,7 @@ I'm a passionate **Java Backend Engineer** with a strong focus on building scala
 
 ## 📫 Let's Connect
 
-- 📧 Email: amrelhady11@gmail.com  
+- 📧 Email: amr.mahmoud.hady@gmail.com  
 - 🔗 LinkedIn: [Amr Elhady](https://www.linkedin.com/in/amr-mahmoud-elhady/)
 - 🌐 Portfolio/GitHub Projects: [AmrElhady11](https://github.com/AmrElhady11)
 
