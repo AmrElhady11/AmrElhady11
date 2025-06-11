@@ -1,35 +1,52 @@
-# 👋 Hi there, I'm Amr Mahmoud Elhady
+<h1 align="center">👋 I'm Amr Mahmoud Elhady</h1>
 
-I'm a passionate **Java Backend Engineer** with a strong focus on building scalable and meaningful backend systems using **Spring Boot**. I enjoy solving real-world problems through clean architecture, thoughtful design, and code that serves a clear purpose.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmrElhady11&label=Profile%20views&color=0e75b6&style=flat" alt="AmrElhady11" />
+  <a href="https://wakatime.com/@amrelhady">
+    <img src="https://wakatime.com/badge/user/amrelhady.svg" alt="Total time coded" />
+  </a>
+</p>
 
-## 🚀 What I Do
-
-- 💻 Writing clean and maintainable backend code in **Java**
-- 🔐 Implementing secure REST APIs with **Spring Security** and **JWT**
-- ☁️ Exploring backend infrastructure and deployment
-- 🎯 Always learning — from algorithms & data structures to modern software architecture
-
-## 🎓 Interests
-
-- 👨‍💻 Problem Solving & System Design
-- 📚 Building educational tools & platforms that make learning accessible
-- 🌍 Turning real-world challenges into functional backend solutions
-- 🧠 Learning new technologies and frameworks
-
-## 🛠 Tech Stack
-
-- **Languages:** Java, SQL, HTML/CSS
-- **Frameworks:** Spring Boot, Spring Security, JPA/Hibernate
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Postman, IntelliJ IDEA, Docker (learning)
-
-## 📫 Let's Connect
-
-- 📧 Email: amr.mahmoud.hady@gmail.com  
-- 🔗 LinkedIn: [Amr Elhady](https://www.linkedin.com/in/amr-mahmoud-elhady/)
-- 🌐 Portfolio/GitHub Projects: [AmrElhady11](https://github.com/AmrElhady11)
+<p align="center">
+  <a href="mailto:amr.mahmoud.hady@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amr-mahmoud-elhady/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/AmrMelhady"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/amr.elhady.11"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+</p>
 
 ---
 
-_“Code is more than syntax — it's a tool to empower, simplify, and create impact.”_
+### 📚 I'm currently reading:
+- **Spring in Action**
+- **Java in Use**
 
+---
+
+### 🌱 I'm currently learning:
+- Microservices
+- Apache Kafka
+
+---
+
+### 💬 Ask me about:
+- `Java`, `Spring`, `Microservices`, `Kafka`, `System Design`, `DevOps`
+
+---
+
+### 🛠 Languages and Tools:
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/Gin-00B386?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white"/>
+</p>
