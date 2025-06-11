@@ -19,20 +19,20 @@
 
 ---
 
-### 📚 Currently Reading:
+###  Currently Reading:
 - [Spring in Action](https://www.manning.com/books/spring-in-action-fifth-edition)
 - [Java In Use](https://www.javainuse.com/)
 
 ---
 
-### 💡 Interests:
+###  Interests:
 - Microservices Architecture
 - Apache Kafka
 - System Design
 
 ---
 
-### 🧠 Skills:
+###  Skills:
 
 **Languages:**
 <p align="center">
@@ -68,7 +68,7 @@
 
 ---
 
-### 📊 GitHub Analytics:
+###  GitHub Analytics:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmrElhady11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -81,28 +81,28 @@
 
 ---
 
-### 📈 Activity Graph:
+###  Activity Graph:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrElhady11&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies:
+###  GitHub Trophies:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AmrElhady11&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-### 📊 Contribution Stats:
+###  Contribution Stats:
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AmrElhady11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
 </div>
 
 ---
 
-### 💻 Most Used Languages (Last 7 Days):
+###  Most Used Languages (Last 7 Days):
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmrElhady11&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 </div>
@@ -117,8 +117,8 @@
 
 <div align="center">
   
-  **Thanks for visiting my profile! 🚀**
+  **Thanks for visiting my profile! **
   
-  [![Profile Views](https://visitcount.itsvg.in/api?id=AmrElhady11&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
   
 </div>
