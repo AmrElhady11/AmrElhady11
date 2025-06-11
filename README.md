@@ -59,10 +59,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachecassandra/apachecassandra-original.svg" height="50" alt="Cassandra"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/cassandra.svg" height="50" alt="Cassandra"/>
 </p>
 
-**DevOps & Tools:**
+**Tools & Technologies:**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="Kubernetes"/>
@@ -72,8 +72,8 @@
   <img src="https://helm.sh/img/helm.svg" height="40" width="40" alt="Helm"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="40" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit5.svg" height="50" alt="JUnit"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-json-web-token-is-an-open-standard-that-defines-a-compact-and-self-contained-way-for-secure-transmitting-logo-color-tal-revivo.png" height="50" alt="JWT"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" height="40" alt="JUnit"/>
+  <img src="https://auth0.com/images/press/logos/jwt/jwt-icon.svg" height="50" alt="JWT"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
 </p>
 
