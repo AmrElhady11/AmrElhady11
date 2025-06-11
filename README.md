@@ -73,7 +73,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" width="40" alt="Postman"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" height="40" alt="JUnit"/>
-  <img src="https://auth0.com/images/press/logos/jwt/jwt-icon.svg" height="50" alt="JWT"/>
+  <img src="https://jwt.io/img/pic_logo.svg" height="40" alt="JWT"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
 </p>
 
