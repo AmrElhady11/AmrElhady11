@@ -99,18 +99,19 @@
 
 ---
 
+<!-- 
 ###  Most Used Languages (Last 7 Days):
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amrElhady&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 ---
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
+-->
 
 <div align="center">
   
