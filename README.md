@@ -104,7 +104,7 @@
 
 ###  Most Used Languages (Last 7 Days):
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmrElhady11&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amrElhady&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 ---
