@@ -1,7 +1,7 @@
 <a href="https://drive.google.com/file/d/1RvwIU3KdjM63_bJUh9k9kUiWQTLfzVNP/view?usp=sharing" target="_blank">
-  <img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70">
-  
+  <img align="right" src="https://images.vexels.com/media/users/3/140030/isolated/preview/4ab50c2349dd40b3e6026bd143da1a2c-cv-icon.png" alt="My CV" width="70">
 </a>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Hi%2C+I+am+Amr+Mahmoud+Elhady;💼+I’m+a+Backend+Developer+interested+in+Spring+%26+Microservices;🌐+Check+my+projects+on+GitHub;📫+Reach+me+on+amr.mahmoud.hady@gmail.com;🚀+Keep+learning+and+building!)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 </p>
 
 ---
-
+<!--
 ###  Currently Reading:
 - [Spring in Action](https://www.manning.com/books/spring-in-action-fifth-edition)
 - [Java In Use](https://www.javainuse.com/)
@@ -32,7 +32,7 @@
 - System Design
 
 ---
-
+-->
 ###  Skills:
 
 **Languages:**
