@@ -1,5 +1,5 @@
 <a href="https://drive.google.com/file/d/1RvwIU3KdjM63_bJUh9k9kUiWQTLfzVNP/view?usp=sharing" target="_blank">
-  <img align="right" src="https://images.vexels.com/media/users/3/140030/isolated/preview/4ab50c2349dd40b3e6026bd143da1a2c-cv-icon.png" alt="My CV" width="70">
+  <img align="right" src="https://drive.google.com/file/d/11ujcF0tVoQDHqwBxIHy1SDdkR3TMLC88/view?usp=sharing" alt="My CV" width="70">
 </a>
 
 
