@@ -88,20 +88,6 @@
 
 ---
 
-###  GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmrElhady11&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-###  Contribution Stats:
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AmrElhady11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
-</div>
-
----
-
 ###  Most Used Languages (Last 7 Days):
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amrElhady&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
@@ -117,8 +103,7 @@
 
 <div align="center">
   
-  **Thanks for visiting my profile! **
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Hi%2C+Thanks+for+visiting+my+Profile;+Reach+me+on+amr.mahmoud.hady@gmail.com;🚀+Keep+learning+and+building!)](https://git.io/typing-svg)
  
   
 </div>
