@@ -50,8 +50,8 @@
 **Frameworks & Libraries:**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40" alt="Spring" title="Spring"/>
-  <img src="https://gin-gonic.com/favicons/favicon-32x32.png" height="40" width="40" alt="Gin" title="Gin Framework"/>
-</p>
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/gin/logo.png" height="80" width="80" alt="Gin" title="Gin Framework"/>
+
 
 **Databases:**
 <p align="center">
