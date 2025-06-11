@@ -103,7 +103,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Hi%2C+Thanks+for+visiting+my+Profile;+Reach+me+on+amr.mahmoud.hady@gmail.com;🚀+Keep+learning+and+building!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Thanks+for+visiting+my+Profile;+Feel+free+to+reach+out+to+me;+Keep+moving+forward!)](https://git.io/typing-svg)
  
   
 </div>
