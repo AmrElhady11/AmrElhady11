@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmrElhady11&label=Profile%20views&color=0e75b6&style=flat" alt="AmrElhady11" />
-  <a href="https://wakatime.com/@amrelhady">
+  <a href="https://wakatime.com/@amrElhady">
     <img src="https://wakatime.com/badge/user/amrelhady.svg" alt="Total time coded" />
   </a>
 </p>
