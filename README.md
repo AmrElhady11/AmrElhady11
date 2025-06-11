@@ -6,7 +6,7 @@
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=AmrElhady11&label=Profile%20views&color=0e75b6&style=flat" alt="AmrElhady11" />
-   <a href="https://wakatime.com/@amrElhady"><img src="https://wakatime.com/badge/user/amrElhady.svg"/></a> <br>
+  <a href="https://wakatime.com/@1904ebd8-d22d-4b1b-902a-864ce9024d0e"><img src="https://wakatime.com/badge/user/1904ebd8-d22d-4b1b-902a-864ce9024d0e.svg" alt="Total time coded since Jun 11 2025" /></a> <br>
    <a href="mailto:amr.mahmoud.hady@gmail.com"><img alt="Email" src="https://img.shields.io/badge/amr.mahmoud.hady@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/amr-mahmoud-elhady"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
    <a href="https://t.me/AmrMelhady"><img src="https://img.shields.io/badge/telegram-black?style=flat&logo=telegram&logoColor=white"/></a>
