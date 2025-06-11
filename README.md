@@ -1,11 +1,13 @@
 <a href="https://docs.google.com/document/d/1gOUEPllR2wudxXSyIwTfMcy7XTBUyL31/edit?usp=sharing" target="_blank">
   <img align="right" src="https://raw.githubusercontent.com/MAES-Pyramids/MAES-Pyramids/main/img%20sources/cv%20.png" alt="My CV" width="70">
 </a>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Hi%2C+I+am+Amr+Mahmoud+Elhady;💼+I'm+a+Backend+Developer+interested+in+Spring+%26+Microservices;🌐+Check+my+projects+on+GitHub;📫+Reach+me+on+amr.mahmoud.hady@gmail.com;🚀+Keep+learning+and+building!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Hi%2C+I+am+Amr+Mahmoud+Elhady;💼+I’m+a+Backend+Developer+interested+in+Spring+%26+Microservices;🌐+Check+my+projects+on+GitHub;📫+Reach+me+on+amr.mahmoud.hady@gmail.com;🚀+Keep+learning+and+building!)](https://git.io/typing-svg)
+
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=AmrElhady11&label=Profile%20views&color=0e75b6&style=flat" alt="AmrElhady11" />
  
-  <a href="https://wakatime.com/@1904ebd8-d22d-4b1b-902a-864ce9024d0e">
+ <a href="https://wakatime.com/@1904ebd8-d22d-4b1b-902a-864ce9024d0e">
   <img src="https://wakatime.com/badge/user/1904ebd8-d22d-4b1b-902a-864ce9024d0e.svg?style=flat" alt="wakatime">
 </a>
 <br>
