@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Hi%2C+I+am+Amr+Mahmoud+Elhady;💼+I’m+a+Backend+Developer+interested+in+Spring+%26+Microservices;🌐+Check+my+projects+on+GitHub;📫+Reach+me+on+amr.mahmoud.hady@gmail.com;🚀+Keep+learning+and+building!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22BB33&width=750&lines=Hi%2C+I+am+Amr+Mahmoud+Elhady;💼+I’m+a+Backend+Developer+interested+in+Spring+%26+Microservices;🌐+Check+my+projects+on+GitHub;📫+Reach+me+on+amr.mahmoud.hady@gmail.com;🚀+Keep+learning+and+building!)](https://git.io/typing-svg)
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=AmrElhady11&label=Profile%20views&color=0e75b6&style=flat" alt="AmrElhady11" />
@@ -116,7 +116,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=257FA7&width=750&lines=Thanks+for+visiting+my+Profile;+Feel+free+to+reach+out+to+me;+Keep+moving+forward!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22BB33&width=750&lines=Thanks+for+visiting+my+Profile;+Feel+free+to+reach+out+to+me;+Keep+moving+forward!)](https://git.io/typing-svg)
  
   
 </div>
