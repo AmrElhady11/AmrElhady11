@@ -95,9 +95,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrElhady11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 -->
-<div>
-<img src="https://streak-stats.demolab.com?user=AmrElhady11&theme=tokyonight&hide_border=true" />
-</div> 
+![GitHub Streak](https://streak-stats.demolab.com?user=AmrElhady11&theme=tokyonight&hide_border=true)
 ---
 
 ###  Activity Graph:
