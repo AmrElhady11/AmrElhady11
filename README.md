@@ -1,4 +1,4 @@
-<a href="https://drive.google.com/file/d/1RvwIU3KdjM63_bJUh9k9kUiWQTLfzVNP/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1ob89XUyLZ4vo5GeZwew6KkRpCSs6Vsqc/view?usp=sharing" target="_blank">
   <img align="right" src="https://drive.google.com/uc?export=view&id=1-WgeTjO2S2YIvzAfpT_os4Knk6oWZyCn" alt="My CV" width="70">
 </a>
 
