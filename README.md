@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22BB33&width=750&lines=Hi%2C+I+am+Amr+Mahmoud+Elhady;💼+I’m+a+Backend+Developer+interested+in+Spring+%26+Microservices;🌐+Check+my+projects+on+GitHub;📫+Reach+me+on+amr.mahmoud.hady@gmail.com;🚀+Keep+learning+and+building!)](https://git.io/typing-svg)
 
-<p>
+<p align="center">
    <img src="https://komarev.com/ghpvc/?username=AmrElhady11&label=Profile%20views&color=0e75b6&style=flat" alt="AmrElhady11" />
  
  <a href="https://wakatime.com/@1904ebd8-d22d-4b1b-902a-864ce9024d0e">
@@ -37,7 +37,7 @@
 ###  Skills:
 
 **Languages:**
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="40" alt="Go" title="Go"/>
@@ -58,7 +58,7 @@
 
 
 **Databases:**
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" title="Redis"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
@@ -67,7 +67,7 @@
 </p>
 
 **Tools & Technologies:**
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker" title="Docker"/>
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="40" alt="Kubernetes" title="Kubernetes"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="40" alt="Jenkins" title="Jenkins"/>
